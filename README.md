@@ -1,0 +1,5 @@
+Three-phase motors are widely used in industrial and automotive applications due to their efficiency and reliability. However, analyzing their electrical behavior in the natural three-phase system can be complex. The d-q axis transformation provides a simplified mathematical framework by converting three-phase currents and voltages into a rotating reference frame aligned with the rotor’s magnetic field.
+
+This study focuses on applying the d-q transformation to a three-phase motor operating at 12V and 5A, computing the corresponding d-axis (direct) and q-axis (quadrature) components. Using Python, we model and visualize the transformation process, providing insights into motor control, dynamic response, and efficiency improvements.
+
+By leveraging d-q axis representation, motor control algorithms—such as field-oriented control (FOC)—can optimize torque and flux regulation, leading to smoother operation and improved performance. This research aims to enhance the understanding of d-q transformation and its practical applications in modern motor control systems.
